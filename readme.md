@@ -25,9 +25,9 @@ The more the AI trains, the harder it becomes to beat.
 
 ## Getting Started
 
-### Clone the repository
+Clone the repository
 
 ```bash
-git clone https://github.com/joey727/nim-ai-python.git
+git clone https://github.com/joey727/Nim.git
 cd nim-ai-python
 
